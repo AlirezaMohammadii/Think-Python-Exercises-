@@ -1,2 +1,2 @@
 print('Hello world')
-print('What is the problem?')
+print('What is the problem')
